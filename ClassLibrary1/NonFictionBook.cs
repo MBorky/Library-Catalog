@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class NonFictionBook : Book
+    internal class NonFictionBook : Book
     {
         public NonFictionBook(string author, string title)
         : base(author, title) { }
