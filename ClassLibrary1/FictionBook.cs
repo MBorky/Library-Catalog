@@ -9,8 +9,8 @@ namespace ClassLibrary1
     internal class FictionBook : Book
     {
         public string LiteraryGenre { get; private set; }
-        public FictionBook(string author, string title, string literaryGenre)
-            : base(author, title)
+        public FictionBook(string author, string title, int bookId, string literaryGenre)
+            : base(author, title, bookId)
         {
             LiteraryGenre = literaryGenre;
         }

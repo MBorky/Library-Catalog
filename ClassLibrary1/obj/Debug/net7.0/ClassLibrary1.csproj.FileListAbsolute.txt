@@ -1,0 +1,11 @@
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+C:\cs11dotnet7\Domowe\Library Catalog\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll

@@ -2,16 +2,17 @@
 {
     public abstract class Book
     {
-        // I decided to make it as private 
-        // I think it is a good idea because the tittle and author should 
-        // only be initialized in the constructor or during declaration
+        
         public string Title { get; }
-        public int BookId { get; }
+        // store key from dictionary userlist. If someone borrow book there is this person key
+        public int Borrower { get; set; } = 0;
+        public int BookId { get; private set; }
         public string Author { get; }
-        public Book(string author, string title)
+        public Book(string author, string title, int bookId)
         {
             this.Author = author;
             this.Title = title;
+            this.BookId = bookId;
         }
 
     }

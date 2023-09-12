@@ -1,0 +1,18 @@
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\Library Catalog.exe
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\Library Catalog.deps.json
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\Library Catalog.runtimeconfig.json
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\Library Catalog.dll
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\Library Catalog.pdb
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\ClassLibrary1.dll
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.csproj.AssemblyReference.cache
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.AssemblyInfo.cs
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.csproj.CopyComplete
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.dll
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\refint\Library Catalog.dll
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.pdb
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\Library Catalog.genruntimeconfig.cache
+C:\cs11dotnet7\Domowe\Library Catalog\Library Catalog\obj\Debug\net7.0\ref\Library Catalog.dll

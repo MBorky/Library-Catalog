@@ -10,12 +10,12 @@ namespace ClassLibrary1
     {
         public string Name { get; private set; }
         public string Surname { get; private set; }
-        public int Id { get; private set; }
+        public int UserId { get; private set; }
         public User (string name, string surname, int id)
         {
             Name = name;
             Surname = surname;
-            Id = id;
+            UserId = id;
         }
     }
 }
